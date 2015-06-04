@@ -1,0 +1,6 @@
+name = Painless Pane
+description = A simple example of a Ctools Content Pane
+version = 0.1
+core = 7.x
+
+dependencies[] = ctools
